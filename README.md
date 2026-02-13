@@ -1,1 +1,80 @@
-# OLA-Ride-Analytics-Dashboard
+# 🚖 OLA Ride Analytics Dashboard | Power BI
+
+An end-to-end Business Intelligence project built using Power BI to analyze OLA ride data and uncover operational and revenue insights.
+
+---
+
+## 📊 Project Overview
+
+This project analyzes 103K+ ride records to identify:
+
+- Ride volume trends over time
+- Success vs Cancellation patterns
+- Revenue distribution by payment method
+- Cancellation reasons (Customer & Driver)
+- Vehicle performance comparison
+- Customer & Driver rating trends
+
+The objective was to transform raw ride data into actionable business insights through interactive dashboards.
+
+---
+
+## 🛠 Tools & Technologies Used
+
+- Power BI
+- Power Query (Data Transformation)
+- DAX (KPI & Measures)
+- Data Modeling
+
+---
+
+## 🔍 Key Insights
+
+- 28K+ ride cancellations identified
+- “Driver not moving towards pickup” is a major cancellation reason
+- High revenue concentration in cash payments
+- Ratings consistently around 4.0
+
+---
+
+## 💡 Business Recommendations
+
+- Improve real-time driver tracking & auto reassignment
+- Introduce digital payment incentives
+- Implement driver performance monitoring
+- Optimize high-demand vehicle allocation
+
+---
+
+## 📂 Project Files
+
+- 📊 Power BI Dashboard (.pbix)
+- 📄 Project Report (PDF)
+- 🎥 Dashboard Walkthrough Video
+
+---
+
+## 🎥 Project Walkthrough Video
+
+[Click here to watch the full dashboard explanation video](PASTE_YOUR_VIDEO_LINK_HERE)
+
+---
+
+## 📄 Project Report (PDF)
+
+[Click here to view the detailed project report](PASTE_YOUR_PDF_LINK_HERE)
+
+---
+
+## 👤 Author
+
+**Purav Dhanki**
+
+Aspiring Data / Business Analyst passionate about transforming data into business insights.
+
+🔗 LinkedIn: www.linkedin.com/in/purav-dhanki
+🔗 GitHub: https://github.com/puravdhanki
+
+---
+
+⭐ If you found this project interesting, feel free to star the repository!
