@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # 🚖 OLA Ride Analytics Dashboard | Power BI
 
 An end-to-end Business Intelligence project built using Power BI to analyze OLA ride data and uncover operational and revenue insights.
