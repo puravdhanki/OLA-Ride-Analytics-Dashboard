@@ -48,10 +48,10 @@ The objective was to transform raw ride data into actionable business insights t
 
 ## 📂 Project Files
 
-- 📊 [Power BI Dashboard File](./OLA-DB.pbix)
-- 📄 [Project Report (PDF)](./Power%20Bi/OLA-DB.pdf)
+- 📊 [Power BI Dashboard File](./Power%20Bi/OLA-DB.pdf)
+- 📄 [Project Report (PDF)](./OLA-Data-Analyst-Project.pdf)
 - 🎥 [Dashboard Walkthrough Video](./Power%20Bi/OLA%20BI%20DB.mp4)
-
+- 📁 [Dataset (CSV File)](./Bookings-100000-Rows.xlsx)
 
 ---
 
@@ -63,7 +63,7 @@ The objective was to transform raw ride data into actionable business insights t
 
 ## 📄 Project Report (PDF)
 
-[Click here to view the detailed project report](./Power%20Bi/OLA-Data-Analyst-Project.pdf)
+[Click here to view the detailed project report](./OLA-Data-Analyst-Project.pdf)
 
 ---
 
