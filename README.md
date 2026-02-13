@@ -63,7 +63,7 @@ The objective was to transform raw ride data into actionable business insights t
 
 ## 📄 Project Report (PDF)
 
-[Click here to view the detailed project report](PASTE_YOUR_PDF_LINK_HERE)
+[Click here to view the detailed project report](./Power%20Bi/OLA-Data-Analyst-Project.pdf)
 
 ---
 
