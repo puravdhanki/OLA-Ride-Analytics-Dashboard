@@ -48,15 +48,16 @@ The objective was to transform raw ride data into actionable business insights t
 
 ## 📂 Project Files
 
-- 📊 Power BI Dashboard (.pbix)
-- 📄 Project Report (PDF)
-- 🎥 Dashboard Walkthrough Video
+- 📊 [Power BI Dashboard File](./OLA-DB.pbix)
+- 📄 [Project Report (PDF)](./Power%20Bi/OLA-DB.pdf)
+- 🎥 [Dashboard Walkthrough Video](./Power%20Bi/OLA%20BI%20DB.mp4)
+
 
 ---
 
 ## 🎥 Project Walkthrough Video
 
-[Click here to watch the full dashboard explanation video](PASTE_YOUR_VIDEO_LINK_HERE)
+[Click here to watch the full dashboard explanation video](./Power%20Bi/OLA%20BI%20DB.mp4)
 
 ---
 
